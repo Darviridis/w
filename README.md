@@ -1,8 +1,17 @@
-root: ./
+---
+description: '12'
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-​structure:  
-    readme: README.md  
-    summary: SUMMARY.md​
+# Page
 
-redirects:  
-    previous/page: new-folder/page.md
